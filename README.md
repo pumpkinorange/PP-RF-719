@@ -2,7 +2,7 @@
 
 1.  Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/pumpkinorange/PP-RF-719
+    git clone https://github.com/pumpkinorange/PP-RF-719.git
     cd your-project
     ```
 
