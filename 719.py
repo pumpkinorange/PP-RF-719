@@ -1,5 +1,5 @@
 # ссылка: https://gisp.gov.ru/pp719v2/mptapp/view/dl/production_res_valid_only/
-# ОКПД2: 28.41, 26.20.40.150, 25.73.40.276, 28.49.21, 28.49.23
+# ОКПД2: 28.41, 26.20.40.150, 25.73.40, 28.49.21, 28.49.23
 import os
 import requests
 import pandas as pd
@@ -149,4 +149,5 @@ def main():
     logging.info(f"\n✅ Готово! Общее время: {total_time:.3f} сек.")
 
 if __name__ == "__main__":
+
     main()
